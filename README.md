@@ -1,5 +1,5 @@
-# github_namechecker
 # GitHub 用户名检测工具使用说明
+# github_namechecker
 
 ## 简介
 本工具用于检测 GitHub 用户名的可用性，支持以下功能：
