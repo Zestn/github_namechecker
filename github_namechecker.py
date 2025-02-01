@@ -5,7 +5,7 @@ import threading
 from queue import Queue
 from itertools import permutations
 
-# @author：zestn
+# @author：ispxx
 
 class GitHubCheckerApp:
     def __init__(self, root):
